@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "startpn",
+    "slug": "startpn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
